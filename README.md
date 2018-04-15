@@ -12,6 +12,7 @@ UncleGrape is a proxy for the new draconian age. Desiged with IOT in mind and th
 * FIDO U2F login*
 * CGI Proxy*
 * SOCKS*
+* Activity Mask via Random Behavior Generation*
 * Transparent Proxy Mode*
 * Modern Access Controls and Options*
 * Hard Coded Proxy Responses*
@@ -44,3 +45,4 @@ UncleGrape is a proxy for the new draconian age. Desiged with IOT in mind and th
 * Web Host running UncleGrape is secure and trusted
 * Web Host running UncleGrape is in a 5/9/14 eyes country (engress/ingress traffic is being watched)
 * Deep Package Inspection is occuring between user and proxy.
+* AI based behavior monitoring Policies are deployed against User or UncleGrape
