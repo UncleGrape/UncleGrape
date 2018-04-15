@@ -2,7 +2,7 @@
 UncleGrape is desiged to be able to be run from shared web hosts.
 
 ## Modern Features
-* Manual or DeadMan Switch *
+* Manual, Automatic, or DeadMan Kill Switch *
 * Custom Port Relay *
 * Cubesat Space Protocol (CSP) *
 * Fast Deployment *
