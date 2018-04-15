@@ -1,5 +1,5 @@
 # UncleGrape
-UncleGrape is a proxy for the new draconian age. Desiged with IOT in mind and the ability to run most features on shared web-hosts. Aims to be everything Glype Proxy and PHP-Proxy dreamed of becoming. Features are avaliable as free MIT licensed add-ons. The UncleGrape project developers are mindful of assumptions made in its development and will explictly record make every one.
+UncleGrape is a proxy for the new draconian age. Desiged with IOT in mind and the ability to run most features on shared web-hosts. Aims to be everything Glype Proxy and PHP-Proxy dreamed of becoming. Features are avaliable as free MIT licensed add-ons. The UncleGrape project developers are mindful of assumptions made in its development and will explictly record every one.
 
 ## Modern Features
 * Manual, Automatic, or DeadMan Kill Switch*
