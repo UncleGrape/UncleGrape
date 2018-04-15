@@ -8,7 +8,7 @@ UncleGrape is desiged to be able to be run from shared web hosts.
 * Scheduled Access *
 * Ephemeral Account Provisioning *
 * Cubesat Space Protocol (CSP) *
-* Fast Deployment *
+* Script Based Deployment *
 * TCP/UDP/SCTP *
 * SSL *
 * IPV6 *
