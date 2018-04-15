@@ -2,6 +2,7 @@
 UncleGrape is desiged to be able to be run from shared web hosts.
 
 ## Modern Features
+* FIDO U2F login *
 * Manual, Automatic, or DeadMan Kill Switch *
 * Custom Port Relay *
 * Scheduled Access *
@@ -16,5 +17,6 @@ UncleGrape is desiged to be able to be run from shared web hosts.
 * Support for dApps *
 * Intrusion Detection *
 * Extension API *
+* Grape to Grape Relay
 
 *Planned
