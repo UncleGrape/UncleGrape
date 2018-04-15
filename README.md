@@ -11,16 +11,18 @@ UncleGrape is desiged to be able to be run from shared web hosts. Aims to be eve
 * Ephemeral Account Provisioning *
 * Cubesat Space Protocol (CSP) *
 * Script Based Deployment *
-* TCP/UDP/SCTP *
+* TCP/UDP/SCTP/HTTPS Tunneling *
 * SSL *
 * IPV6 *
 * Internet over Ping (IoP) *
 * Blacklist/Whitelist *
 * Feature disable *
-* Run as Hidden Service
+* Run as Hidden Service *
 * Support for dApps *
 * Intrusion Detection *
 * Extension API *
 * Grape to Grape Relay *
+* I2P *
+* Private P2P *
 
 *Planned
