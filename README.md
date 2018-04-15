@@ -35,7 +35,7 @@ UncleGrape is a proxy for the new draconian age. Desiged with IOT in mind and th
 * Private P2P*
 * 1-way or 2-way Port Knocking Support*
 * Service Avaliabilty Canary*
-* Donate Access When Idle*
+* Server Sailing (Automated Deployment to New Server)*
 * Rotating Access Credentials*
 
 *Planned
