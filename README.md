@@ -7,7 +7,7 @@ UncleGrape is a proxy for the new draconian age. Desiged with IOT in mind and th
 * SNI Spoofing*
 * Logless Option*
 * Access via https knock*
-* Mask as ad provider or google analytics*
+* Mask as Ad provider or google analytics*
 * Mask as DNS provider*
 * FIDO U2F login*
 * CGI Proxy*
@@ -30,19 +30,22 @@ UncleGrape is a proxy for the new draconian age. Desiged with IOT in mind and th
 * Support for dApps*
 * Intrusion Detection*
 * Extension API*
-* Grape to Grape Relay (Proxy to Proxy)*
+* Grape 2 Grape Relay (Proxy to Proxy)*
 * I2P*
 * Private P2P*
 * 1-way or 2-way Port Knocking Support*
 * Service Avaliabilty Canary*
+* Donate Access When Idle*
+* Rotating Access Credentials*
 
 *Planned
 
 
 ## Project Assumptions
 * User is in China and not using a VPN
+* Discovery of UncleGrape usage results in loss of Users' life
 * User is not able to read/write code
 * Web Host running UncleGrape is secure and trusted
 * Web Host running UncleGrape is in a 5/9/14 eyes country (engress/ingress traffic is being watched)
-* Deep Package Inspection is occuring between user and proxy.
+* Deep Package Inspection is occuring between user and proxy
 * AI based behavior monitoring Policies are deployed against User or UncleGrape
