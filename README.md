@@ -5,6 +5,7 @@ UncleGrape is a proxy for the new draconian age. Desiged with IOT in mind and th
 * Manual, Automatic, or DeadMan Kill Switch*
 * Access Control via TLS Whitelist*
 * SNI Spoofing*
+* Access via https knock*
 * FIDO U2F login*
 * Logless Option*
 * CGI Proxy*
@@ -29,5 +30,6 @@ UncleGrape is a proxy for the new draconian age. Desiged with IOT in mind and th
 * Grape to Grape Relay (Proxy to Proxy)*
 * I2P*
 * Private P2P*
+* 1-way or 2-way Port Knocking Support*
 
 *Planned
