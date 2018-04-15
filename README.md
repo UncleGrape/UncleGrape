@@ -43,8 +43,9 @@ UncleGrape is a proxy for the new draconian age. Desiged with IOT in mind and th
 
 ## Project Assumptions
 * User is in China and not using a VPN
-* Discovery of UncleGrape usage results in loss of Users' life
+* Discovery of GFW advoidance results in loss of Users' life
 * User is not able to read/write code
+* User will incorrectly follow setup instructions
 * Web Host running UncleGrape is secure and trusted
 * Web Host running UncleGrape is in a 5/9/14 eyes country (engress/ingress traffic is being watched)
 * Deep Package Inspection is occuring between user and proxy
