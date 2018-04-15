@@ -49,4 +49,4 @@ UncleGrape is a proxy for the new draconian age. Desiged with IOT in mind and th
 * Web Host running UncleGrape is secure and trusted
 * Web Host running UncleGrape is in a 5/9/14 eyes country (engress/ingress traffic is being watched)
 * Deep Package Inspection is occuring between user and proxy
-* AI based behavior monitoring Policies are deployed against User or UncleGrape
+* AI based behavior monitoring Policies are deployed against User or Web Host traffic
