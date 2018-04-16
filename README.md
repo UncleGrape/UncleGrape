@@ -8,6 +8,7 @@ UncleGrape is a proxy for the new draconian age. Desiged with IOT in mind and th
 * Logless Option*
 * Access via https knock*
 * Mask as Ad provider or google analytics*
+* [Zero-width tracker](https://medium.com/@aidobreen/hidden-text-fingerprints-and-how-to-avoid-them-d0103edd2ce4) Blocking*
 * Mask as DNS provider*
 * FIDO U2F login*
 * CGI Proxy*
