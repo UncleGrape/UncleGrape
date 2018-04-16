@@ -21,7 +21,7 @@ UncleGrape is a proxy for the new draconian age. Desiged for an IOT, mobile, and
 * Custom Port Relay*
 * Scheduled Access*
 * Ephemeral Account Provisioning*
-* Scriptless Based Deployment*
+* Script or Scriptless Based Deployment*
 * TCP/UDP/SCTP/HTTPS Tunneling*
 * SSL*
 * IPV6*
