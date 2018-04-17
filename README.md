@@ -14,7 +14,7 @@ UncleGrape is a proxy for the new draconian age. Desiged for an IOT, mobile, and
 * CGI Proxy*
 * SOCKS*
 * Activity Mask via Random Behavior Generation*
-* Donate Access via Interactive Display Ad* (Provided on a random website by a budgeted ad campaign with an ad agency like DoubleClick)
+* Donate Access via Interactive Display Ad* (Proxy access appears on a random website by a budgeted ad campaign with an ad agency like DoubleClick)
 * Transparent Proxy Mode*
 * Modern Access Controls and Options*
 * Hard Coded Proxy Responses*
@@ -22,6 +22,7 @@ UncleGrape is a proxy for the new draconian age. Desiged for an IOT, mobile, and
 * Scheduled Access*
 * Ephemeral Account Provisioning*
 * Script or Scriptless Based Deployment*
+* Install via Ubuntu snap store*
 * TCP/UDP/SCTP/HTTPS Tunneling*
 * SSL*
 * IPV6*
