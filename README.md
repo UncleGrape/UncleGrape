@@ -4,6 +4,7 @@ UncleGrape is a personal proxy for the new draconian age. Desiged for an IOT, mo
 ## Modern Features
 * Manual, Automatic, or DeadMan Kill Switch*
 * Access Control via TLS Whitelist*
+* Generic routing encapsulation (GRE)
 * SNI Spoofing*
 * Logless Option*
 * Access via https knock*
