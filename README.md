@@ -7,7 +7,7 @@ UncleGrape is a personal proxy for the new draconian age. Desiged for an IOT, mo
 * Generic routing encapsulation (GRE)
 * SNI Spoofing*
 * Logless Option*
-* Access via https knock*
+* Access via http knock*
 * Mask as Ad provider or google analytics*
 * [Zero-width tracker](https://medium.com/@aidobreen/hidden-text-fingerprints-and-how-to-avoid-them-d0103edd2ce4) Blocking*
 * Mask as DNS provider*
